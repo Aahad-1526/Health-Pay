@@ -5,6 +5,9 @@
 <p>Now day's when it come to backing up your health expenses , there are health insurance company but they take a lot of paper work plus the time delay. and what about you just need the small amout of money for medicine purpose immediatelly who is there for you to help, either you have to borrow the money on the huge interest rate or you have to sell something really very important to you .
 </p>
 <h5>So come and explore our website so that you can come back to someone when you can go to no one because we always have your back.</h5>
+<p align = "center"><img src ="https://github.com/Aahad-1526/Health-Pay/blob/main/Screenshot%202023-04-09%20134425.png"></p>
+<h3>Just signup and have your backer</h3>
+<p>A simple signup page to ensure that each and everyone of you can benefit from this. Login to our website to get constant updates of what is happening and the new schemes to benefit yourself .</p>
 <img src="https://github.com/Aahad-1526/Health-Pay/blob/main/Screenshot%202023-04-09%20132137.png">
 <h3>To anyone who supports us</h3>
 <p>it is also common when we directly wanted to help the need but end by help the road side begger , so here at health pay we help you directly connect with the needy and give them money . the one who needed help but don't have any body to help , by just simply registring(both the needer as well as needer) needer just needed to make and id and entered the issue they are facing , the donor is also required to submit and registration and deposit the money into their own account , so that when they find someone who is really needy to donate directly.
